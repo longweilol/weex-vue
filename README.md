@@ -1,6 +1,10 @@
 # weex-vue
 weex跨平台基础代码
 
+IOS：https://github.com/longweilol/weex-ios-swift
+
+Android：https://github.com/longweilol/weex-android-kotlin
+
 # Run
 
 ## install
